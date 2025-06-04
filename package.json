@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouLin-0509/blockchain-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouLin-0509/blockchain-final-project/issues"
+  },
+  "homepage": "https://github.com/YouLin-0509/blockchain-final-project#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.24.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
